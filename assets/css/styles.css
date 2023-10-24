@@ -322,6 +322,26 @@ img {
 .skills__html {
   width: 95%;
 }
+.skills__fullstackdev {
+  width: 88%;
+}
+
+.skills__machinelearning{
+  width: 87%;
+}
+
+.skills__dataanalysis {
+  width: 90%;
+}
+
+.skills__webappdev{
+  width: 85%;
+}
+
+.skills__deeplearning{
+  width: 83%;
+}
+.skills__robotics{width: 80%;}
 
 .skills__css {
   width: 85%;
